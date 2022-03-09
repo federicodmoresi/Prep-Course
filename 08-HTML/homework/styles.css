@@ -1,0 +1,18 @@
+#divClass > h1 {
+    color: aqua;
+}
+#thirDiv ul>li>img{
+    width: 400px;
+}
+#thirDiv {
+    height: 600px;
+    width: 500px;
+    background-color: crimson;
+    padding: 50px;
+    border-color: blue;
+    border-width: 6px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
